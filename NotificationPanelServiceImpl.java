@@ -1,4 +1,4 @@
-@Service
+@Service 
 public class @Service
 public class NotificationPanelServiceImpl implements NotificationPanelService {
 
