@@ -1,5 +1,4 @@
 @Service 
-public class @Service
 public class NotificationPanelServiceImpl implements NotificationPanelService {
 
     private final NotificationPanelRepository notificationPanelRepository;
